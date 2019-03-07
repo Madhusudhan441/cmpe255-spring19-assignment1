@@ -1,22 +1,17 @@
 # cmpe255-spring19-assignment1
 CMPE 255 Assignment 1
 
-Comparision of Yelp 5 Star Rating with my Model Prediction:
 
-Opposite Reviews predicted by model
+5 Opposite Reviews Predicted by my model
 -------------------------------------------------
-3 Opposite Reviews Predicted by my model
 
 Review
 -------------------------------------------------
 
 fabrege  gave me sum maynoaize 4 my homefry and i took it hom and it was good 2 eat lter  but then i ate it and left it on the floor and my big toe got mayoniaise on it :S  just a lil confused :S
-
-
+..................................................
 Predicted Review --  negative review
 Yelp Review based on 5 Star Rating -- positive review
-
-
 
 Review
 -------------------------------------------------
@@ -26,11 +21,9 @@ We looked all over the place and still didn't see anything that looked like a pi
 The long dark hall, framed on either side with old album covers was a bit nostalgic,  I could see a video game, one of those older arcade types, and a flat screen, but once inside and around the corner, a mall counter and several large pizza's laid before use  to choose our slice, pepperoni with meatball. 
 
 It was reheated and not bad, it actually retained a good crust, not soggy at all.  We must have been there at just the right time because there wasn't a line, and only three other people around.  I had read there could be a long line and wait A definite must try kind of place.
-
+..................................................
 Predicted Review --  negative review
 Yelp Review based on 5 Star Rating -- positive review
-
-
 
 Review
 -------------------------------------------------
@@ -40,22 +33,34 @@ I am picky and I'm also not one who is going to go ooooo & aaaaaah over a lot of
 Predicted Review --  negative review
 Yelp Review based on 5 Star Rating -- positive review
 
-
-
-
-
-Same Reviews Predicted by my model
+Review
 -------------------------------------------------
+
+The pizzas we ordered were okay (not the best but not the worst either), but the wait to get our food was over an hour due to a large party inside, and staff wasn't very attentive to our table during this hour. Some other tables that ordered after us got their meals first. However, due to the long wait, they brought us a slice tiramisu, which we enjoyed. The tiramisu was delicious!
+..................................................
+Predicted Review --  negative review
+Yelp Review based on 5 Star Rating -- positive review
+
+Review
+-------------------------------------------------
+
+I had a chance to walk around this casino, the interior is beautifully designed and the air inside is very clean. A waitress came to take our drink orders as soon as we sat down at the tables, and the drinks were not watered down. Its a long walk from other popular casinos like bellagio, aria and caesars.
+..................................................
+Predicted Review --  negative review
+Yelp Review based on 5 Star Rating -- positive review
+
+
+5 Same Reviews Predicted by my model
+-------------------------------------------------
+
 
 Review
 -------------------------------------------------
 
 Sign on to a reasonable deal and then watch your monthly rent increase LIKE CRAZY. They are banking on the fact that you won't make the effort to move your stuff to another facility. Also, I signed up for auto-pay and naturally, the credit cards eventually expire. They are merciless about giving you a 25% late fee and wont budge on reversing the charge. Ridiculous, unethical & unscrupulous.
 ..................................................
-
 Predicted Review --  negative review
 Yelp Review based on 5 Star Rating -- negative review
-
 
 Review
 -------------------------------------------------
@@ -69,7 +74,6 @@ Definitely recommend this place.
 Predicted Review --  positive review
 Yelp Review based on 5 Star Rating -- positive review
 
-
 Review
 -------------------------------------------------
 
@@ -80,6 +84,31 @@ Location of said roller coaster... Even more fabulous.
 Location of hotel... Not so good.  Especially when you've dressed nice with your lady pals and head on out to the strip.  3 hours later and 30 propositions from strange weirdos later, we finally made it to Caesars palace.  
 
 Although I had a great time next time I'd book a place closer to wherever the action is (bellagio, Caesars palace).  The upside is it does have free parking below!!
+
+Predicted Review --  positive review
+Yelp Review based on 5 Star Rating -- positive review
+
+Review
+-------------------------------------------------
+PRO: staff was friendly.
+
+CONS: Dog got sick from here.  Sneezing and difficulty breathing, which the dog has NEVER had.
+
+At $50/day, I think they can do better with their strict warranty.
+
+The pricing was not explained clearly and what we thought was $25/day turned out to be $50/day.
+..................................................
+Predicted Review --  negative review
+Yelp Review based on 5 Star Rating -- negative review
+
+Review
+-------------------------------------------------
+
+I have three dogs and three cats, and I am very particular about their care.  In 10 years living in Atlanta I never found a vet I was truly happy with.  
+
+Upon moving to Charlotte, I am thrilled to have found Atrium Animal Clinic.  My pets have been seen by three of their vets, based on my pets' particular need and the doctors' specialties, and I have been very happy with all of them, both from their medical expertise and bedside manner/demeanor.  The entire staff is always pleasant and friendly to me and my pets.  I love that they offer both holistic and traditional options.  My preference is for a more holistic approach, but I like that the traditional options are available if needed.
+
+I cannot imagine taking my pets anywhere else and am so grateful to have found this clinic.
 
 Predicted Review --  positive review
 Yelp Review based on 5 Star Rating -- positive review
